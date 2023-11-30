@@ -11,7 +11,9 @@
                                       scroll-padding-top: 2rem;
                                       font-family: "Poppins", sans-serif;
                                     }
-                                   
+                                    section {
+        margin-bottom: 20px; /* Adjust the value to your preference */
+    }
                                     :root {
                                       --main-color: #033a80;
                                       --bg-color: #fff;
