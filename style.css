@@ -108,8 +108,8 @@ section .title::after{
     color: #fff;
 }
 .navbar .menu li{
-    list-style: none;
-    display: inline-block;
+    list-style: block;
+    display: block;
 }
 .navbar .menu li a{
     display: block;
